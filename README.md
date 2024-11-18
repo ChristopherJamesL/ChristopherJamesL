@@ -1,6 +1,6 @@
 <!-- Header with colored background and your name -->
 <p align="center">
-  <img src="[https://via.placeholder.com/1200x200/4CAF50/FFFFFF?text=Your+Name+Here]" alt="Header Image" width="100%" />
+  <img src="https://via.placeholder.com/1200x200/4CAF50/FFFFFF?text=Your+Name+Here" alt="Header Image" width="100%" />
 </p>
 
 <h2 align="center">Full Stack Developer</h2>
@@ -23,10 +23,8 @@
 
 ---
 
-## Hi there 👋
-
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopherJamesL&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ---
 
@@ -36,21 +34,6 @@
 
 ---
 
-## 🧑‍💻 Projects
+## 🧑‍💻 Current Projects
 - [Project 1 Name](https://github.com/yourusername/project1)
 - [Project 2 Name](https://github.com/yourusername/project2)
-
-<!--
-**ChristopherJamesL/ChristopherJamesL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
