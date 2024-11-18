@@ -1,6 +1,6 @@
-<!-- Header with colored background and your name -->
+<!-- Header with custom image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x200/4CAF50/FFFFFF?text=Your+Name+Here" alt="Header Image" width="100%" />
+  <img src="https://www.shutterstock.com/image-photo/programmer-people-working-laptops-smartphones-600nw-2473384115.jpg" alt="Header Image" width="100%" />
 </p>
 
 <h2 align="center">Full Stack Developer</h2>
