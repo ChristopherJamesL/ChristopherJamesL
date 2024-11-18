@@ -41,10 +41,17 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
 
 ## 🧑‍💻 Projects I Have Worked On
 
-[![Smart Brain App Profile Picture](https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=smart-brain-app-profile-picture)](https://github.com/ChristopherJamesL/smart-brain-app-profile-picture)  
-
-
-[![Robofriends Redux](https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=robofriends-redux)](https://github.com/ChristopherJamesL/robofriends-redux)  
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <!-- Smart Brain App Repo Card -->
+  <a href="https://github.com/ChristopherJamesL/smart-brain-app-profile-picture" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=smart-brain-app-profile-picture" alt="Smart Brain App Profile Picture" />
+  </a>
+  
+  <!-- Robofriends Redux Repo Card -->
+  <a href="https://github.com/ChristopherJamesL/robofriends-redux" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=robofriends-redux" alt="Robofriends Redux" />
+  </a>
+</div>
 
 ---
 
