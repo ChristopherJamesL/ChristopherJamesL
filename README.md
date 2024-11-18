@@ -1,8 +1,12 @@
-<!-- Header with custom image -->
-<p align="center">
-  <img src="https://www.shutterstock.com/image-photo/programmer-people-working-laptops-smartphones-600nw-2473384115.jpg" alt="Header Image" width="100%" />
-</p>
+<!-- Container for background image and name -->
+<div style="position: relative; text-align: center; color: white; background-image: url('https://www.shutterstock.com/image-photo/programmer-people-working-laptops-smartphones-600nw-2473384115.jpg'); background-size: cover; height: 300px; display: flex; justify-content: center; align-items: center;">
+  
+  <!-- Your Name on top of the background image -->
+  <h1 style="font-size: 3rem; font-weight: bold;">Christopher James</h1>
 
+</div>
+
+<!-- Description under the name -->
 <h2 align="center">Full Stack Developer</h2>
 
 <!-- Technologies and Tools Section with logos -->
