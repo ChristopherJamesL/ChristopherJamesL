@@ -17,28 +17,35 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+Hi there 👋 I'm Chris, 
+a full stack developer with an ambition to grow and learn new things. I love solving problems, building innovative solutions, and continuously expanding my knowledge.
+Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher-james-a258a6338/" style="color: blue;">LinkedIn</a>
+
 
 ---
 
 ## 🔧 Technologies & Tools
-- 🖥️ **Languages:** JavaScript, Python, Java, C++
-- 🌐 **Web Frameworks:** React, Express
-- 🛠️ **Tools:** Git, Docker, VS Code, GitHub Actions
-- 📚 **Databases:** MySQL, MongoDB, PostgreSQL
+- 🖥️ **Languages:** JavaScript, TypeScript, HTML, CSS
+- 🌐 **Web Frameworks:** React, Node.js
+- 🛠️ **Tools:** Git, Docker, VS Code, AWS
+- 📚 **Databases:** MySQL, Redis, PostgreSQL
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+<div class="container" style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ChristopherJamesL&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherJamesL&theme=blue-green&langs_count=8&layout=compact" alt="Most Used Languages" />
+</div>
 
 ---
 
-## 📫 How to reach me:
-- 📧 [Email me](mailto:youremail@example.com)
-- 🌍 [Visit my portfolio](https://yourportfolio.com)
+## 🧑‍💻 Projects I Have Worked On
+
+[![Smart Brain App Profile Picture](https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=smart-brain-app-profile-picture)](https://github.com/ChristopherJamesL/smart-brain-app-profile-picture)  
+
+
+[![Robofriends Redux](https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=robofriends-redux)](https://github.com/ChristopherJamesL/robofriends-redux)  
 
 ---
 
-## 🧑‍💻 Current Projects
-- [Project 1 Name](https://github.com/yourusername/project1)
-- [Project 2 Name](https://github.com/yourusername/project2)
+
