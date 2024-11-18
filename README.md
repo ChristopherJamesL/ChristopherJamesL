@@ -1,10 +1,10 @@
 <!-- Container for background image and name -->
-<div style="position: relative; text-align: center; color: white;">
+<div style="position: relative; text-align: center;">
   <!-- Background image -->
   <img src="https://www.shutterstock.com/image-photo/programmer-people-working-laptops-smartphones-600nw-2473384115.jpg" alt="Header Image" style="width: 100%; height: 300px; object-fit: cover;" />
 
   <!-- Your Name on top of the background image -->
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3rem; font-weight: bold;">Christopher James</h1>
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3rem; font-weight: bold; color: white;">Christopher James</h1>
 </div>
 
 <!-- Description under the name -->
