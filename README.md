@@ -36,7 +36,7 @@
 
 ---
 
-## 🧑‍💻 Current Projects
+## 🧑‍💻 Projects
 - [Project 1 Name](https://github.com/yourusername/project1)
 - [Project 2 Name](https://github.com/yourusername/project2)
 
