@@ -59,7 +59,7 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
 
   <!-- robofriends-redux Repo Card -->
   <a href="https://github.com/ChristopherJamesL/robofriends-redux" target="_blank">
-    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=robofriends-redux" alt="robofriends-redux" />
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=robofriends-redux " alt="robofriends-redux" />
   </a>
 </div>
 
