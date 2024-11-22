@@ -49,7 +49,7 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
   
   <!-- Robofriends Redux Repo Card -->
   <a href="https://github.com/ChristopherJamesL/smart-brain-api-profile" target="_blank">
-    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=robofriends-redux" alt="Robofriends Redux" />
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=smart-brain-api-profile" alt="smart-brain-api-profile" />
   </a>
 </div>
 
