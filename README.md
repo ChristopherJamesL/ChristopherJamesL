@@ -51,6 +51,16 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
   <a href="https://github.com/ChristopherJamesL/smart-brain-api-profile" target="_blank">
     <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=smart-brain-api-profile" alt="smart-brain-api-profile" />
   </a>
+
+  <!-- serverless-smart-brain-functions Repo Card -->
+  <a href="https://github.com/ChristopherJamesL/serverless-smart-brain-functions" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=serverless-smart-brain-functions" alt="serverless-smart-brain-functions" />
+  </a>
+
+  <!-- robofriends-redux Repo Card -->
+  <a href="https://github.com/ChristopherJamesL/robofriends-redux" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=robofriends-redux" alt="robofriends-redux" />
+  </a>
 </div>
 
 ---
