@@ -58,8 +58,8 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
   </a>
 
   <!-- Cloud-Apparel Repo Card -->
-  <a href="https://github.com/ChristopherJamesL/Cloud-Apparel" target="_blank">
-    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=Cloud-Apparel" alt="Cloud-Apparel" />
+  <a href="https://github.com/ChristopherJamesL/cloud-apparel-redux" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=cloud-apparel-redux" alt="Cloud-Apparel-Redux" />
   </a>
 </div>
 
