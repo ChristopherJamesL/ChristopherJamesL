@@ -52,9 +52,9 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
     <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=smart-brain-api-profile" alt="smart-brain-api-profile" />
   </a>
 
-  <!-- serverless-smart-brain-functions Repo Card -->
-  <a href="https://github.com/ChristopherJamesL/serverless-smart-brain-functions" target="_blank">
-    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=serverless-smart-brain-functions" alt="serverless-smart-brain-functions" />
+  <!-- NASA Planets Project Repo Card -->
+  <a href="https://https://github.com/ChristopherJamesL/nasa-planets-project" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=nasa-planets-project" alt="nasa-planets-project" />
   </a>
 
   <!-- Cloud-Apparel Repo Card -->
