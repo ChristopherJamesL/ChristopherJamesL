@@ -26,7 +26,7 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
 
 ## 🔧 Technologies & Tools
 - 🖥️ **Languages:** JavaScript, TypeScript, HTML, CSS
-- 🌐 **Web Frameworks:** React, Node.js
+- 🌐 **Web Frameworks:** Next.js, React, Node.js
 - 🛠️ **Tools:** Git, Docker, VS Code, AWS
 - 📚 **Databases:** MySQL, Redis, PostgreSQL
 
