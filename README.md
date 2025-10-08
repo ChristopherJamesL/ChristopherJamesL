@@ -42,7 +42,7 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
 ## 🧑‍💻 Projects I Have Worked On
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <!-- Mock Netflix App -->
+  <!-- Mock Netflix Application -->
   <a href="https://github.com/ChristopherJamesL/discover-videos" target="_blank">
     <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=discover-videos" alt="discover-videos" />
   </a>
