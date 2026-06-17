@@ -47,9 +47,9 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
     <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=discover-videos" alt="discover-videos" />
   </a>
   
-  <!-- Robofriends Redux Repo Card -->
-  <a href="https://github.com/ChristopherJamesL/smart-brain-api-profile" target="_blank">
-    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=smart-brain-api-profile" alt="smart-brain-api-profile" />
+  <!-- Task Manager - Full Stack Repo Card -->
+  <a href="https://github.com/ChristopherJamesL/task-manager" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=task-manager" alt="smart-brain-api-profile" />
   </a>
 
   <!-- NASA Planets Project Repo Card -->
