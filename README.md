@@ -57,9 +57,9 @@ Feel free to reach out to me on <a href="https://www.linkedin.com/in/christopher
     <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=nasa-planets-project" alt="nasa-planets-project" />
   </a>
 
-  <!-- Cloud-Apparel Repo Card -->
-  <a href="https://github.com/ChristopherJamesL/cloud-apparel-redux" target="_blank">
-    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=cloud-apparel-redux" alt="Cloud-Apparel-Redux" />
+  <!-- Crwn-Clothing Repo Card -->
+  <a href="[https://github.com/ChristopherJamesL/cloud-apparel-redux](https://github.com/ChristopherJamesL/Practice-Project-React-Redux)" target="_blank">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristopherJamesL&repo=cloud-apparel-redux" alt="Crwn-Clothing-Redux" />
   </a>
 </div>
 
